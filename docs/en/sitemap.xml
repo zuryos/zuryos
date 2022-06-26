@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://zuryos.github.io/zry1s/</loc>
     <lastmod>2022-06-26T15:25:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://zuryos.github.io/zry1s/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://zuryos.github.io/zry1s/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/first-post/</loc>
+    <loc>https://zuryos.github.io/zry1s/posts/first-post/</loc>
     <lastmod>2022-06-26T15:25:50+08:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://zuryos.github.io/zry1s/posts/</loc>
     <lastmod>2022-06-26T15:25:50+08:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://zuryos.github.io/zry1s/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://zuryos.github.io/zry1s/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://zuryos.github.io/zry1s/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://zuryos.github.io/zry1s/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://zuryos.github.io/zry1s/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://zuryos.github.io/zry1s/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://zuryos.github.io/zry1s/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://zuryos.github.io/zry1s/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://zuryos.github.io/zry1s/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://zuryos.github.io/zry1s/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://zuryos.github.io/zry1s/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://zuryos.github.io/zry1s/tags/"
                 />
   </url>
 </urlset>
